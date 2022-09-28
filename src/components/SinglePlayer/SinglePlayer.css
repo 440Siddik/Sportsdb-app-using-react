@@ -1,0 +1,23 @@
+.card {
+  width: 250px;
+  height: 440px;
+  border: 2px solid red;
+  margin: 2px;
+  box-shadow: 2px 2px 4px gray;
+  border-radius: 10px;
+  padding: 20px;
+}
+.player-img {
+  width: 250px;
+  height: 250px;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+.card-btn{
+  padding: 10px 10px;
+  margin: 3px;
+  background-color: wheat;
+  border: 2px solid red;
+  color:rgb(95, 37, 255);
+  font-weight: 700;
+}

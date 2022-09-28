@@ -1,0 +1,15 @@
+.nav-container{
+  background:palegreen;
+  padding: 20px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-elem a{ 
+text-decoration: none;
+margin-right: 30px;
+color: brown;
+font-weight: 700;
+font-size: 20px;
+}
